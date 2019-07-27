@@ -20,7 +20,7 @@
 }
 
 body {
-    background-color: black;
+    background-image: url("img/espacio.png");
 }
 
 .floatRigth {
@@ -97,6 +97,7 @@ body {
 }
 
 .barrasocial {
+    text-align: center;
     position: fixed;
     left: 0;
     top: 100px;

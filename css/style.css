@@ -9,8 +9,12 @@ body {
     margin: 0%;
     padding: 0%;
     color: beige ;
-    background-color: black !important;
+    width: auto;
+    height: auto;
+    background-image: url("img/estellas.jpg");
+    background-color: black;
     font-family: 'Darker Grotesque', sans-serif;
+    background-repeat: no-repeat;
 }
 
 video-container {
