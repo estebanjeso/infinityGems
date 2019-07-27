@@ -1,0 +1,20 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    color: beige ;
+    background-color: black !important
+}
+
+video-container {
+    margin: 10px;
+}
+
+p{
+    margin:20px 0px;
+    
+
+}
+.icon-right-open,
+.icon-left-open {
+    border: none
+}
