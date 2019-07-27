@@ -1,8 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Darker+Grotesque:400,500,600,700,800,900&display=swap');
+
+@font-face{
+    font-family: Avenger;
+    src: url(fonts/letra2.ttf ) format("truetype");
+
+}
 body {
     margin: 0%;
     padding: 0%;
     color: beige ;
-    background-color: black !important
+    background-color: black !important;
+    font-family: 'Darker Grotesque', sans-serif;
 }
 
 video-container {
@@ -17,4 +25,7 @@ p{
 .icon-right-open,
 .icon-left-open {
     border: none
+}
+nav{
+    font-family: Avenger;
 }
